@@ -1,0 +1,5 @@
+{{#user}}
+Name: Akruti 
+Skills: HTML, CSS, JS, PHP, UX/UI design, jQuery, AngularJS, NodeJS
+Email: aviternal20@gmail.com
+{{/user}}
